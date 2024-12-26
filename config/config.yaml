@@ -7,8 +7,7 @@ data_ingestion:
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
   option: google
-  fileid: 1xLxEJn7s5waivRbKG7zaw66Sn8FjeWLe
-
+  fileid: 1tLpuC4uQAE28sbZsfI9SyqTOIMekAdwq
 
 prepare_base_model:
   root_dir: artifacts/prepare_base_model
